@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🖥️  See my portfolio at [Under Construction](http://link)
 * 🚀  I'm currently working on [MERN Stack List Sharing Website](http://link)
 * 🧠  I'm learning React,MongoDB
-* 🤝  I'm open to collaborating on MERB Stack Projects
+* 🤝  I'm open to collaborating on MERN Stack Projects
 * ⚡  I have quite proficient in college mathematics and physics.
 
 ### Skills
