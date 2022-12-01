@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🚀  I'm currently working on [MERN Stack List Sharing Website](https://github.com/anonymousAAK)
 * 🧠  I'm learning React,MongoDB
 * 🤝  I'm open to collaborating on MERN Stack Projects
-* ⚡  I have quite proficient in college mathematics and physics.
+* ⚡  I am quite proficient in college mathematics and physics.
 
 ### Skills
 
