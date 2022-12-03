@@ -8,6 +8,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🤝  I'm open to collaborating on MERN Stack Projects
 * ⚡  I am quite proficient in college mathematics and physics.
 
+<a href="https://app.daily.dev/anonymousAAK"><img src="https://api.daily.dev/devcards/98fb44b90c3a4fd79681fd11a064eef0.png?r=rrk" width="400" alt="Adarsh Keshri's Dev Card"/></a>
+
 ### Skills
 
 
