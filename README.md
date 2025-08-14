@@ -3,24 +3,8 @@
 </div>  
   
 
-### <div align="center">I'm Adarsh, a full-stack developer 👨‍💻 🚀</div>  
+### <div align="center">I'm Adarsh 👨‍💻 🚀</div>  
   
-
-- 🔭 I’m currently working on [List Maker](https://github.com/anonymousAAK)  
-  
-
-- 🌱 I’m currently learning React , Express and Tensor Calculus  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies,
-also love to talk about higher mathematics  
-  
-
-- ⚡ Fun fact: I got AIR-1 in National Science Olympiad  
-  
-
-<br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
