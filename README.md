@@ -37,7 +37,7 @@ If a problem requires translating between physics, finance, machine learning, an
 - **MBA candidate, IIM Raipur — PGP, Class of 2027.**
 - **BSc (Hons.) Physics** — undergraduate background in classical mechanics, statistical physics, and computational methods.
 - **Published author** — *Realizing a Fully Functional CPU Using Multi-Layer Perceptrons*, **IJARIIT, Vol. 11, Issue 1, pp. 248–256 (21 Feb 2025), ISSN 2454-132X**. The paper introduces **IC 616 Ultra-MLP**, a fully perceptron-based CPU showing that arrays of threshold units, with appropriate weights and biases, can theoretically implement all standard computing tasks — pipeline, memory hierarchy, and on-chip training included. It sits at the boundary of neural-inspired computing and computer architecture.
-- **Co-founder, Cosminder Solutions (Deoghar, Jharkhand)** — AI research lab. Led work on large-parameter simulation models, including a multi-country macroeconomic simulation engine. (Most of this work is not in this GitHub account.)
+- **Co-founder — AI research lab. Led work on large-parameter simulation models, including a multi-country macroeconomic simulation engine. (Most of this work is not in this GitHub account.)
 - **Quant interests** — implied volatility surfaces, SVI / SABR fitting, HMM-based regime detection, portfolio optimization, Monte Carlo VaR.
 
 ---
